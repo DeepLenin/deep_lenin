@@ -19,6 +19,7 @@ description: Sweet deep learning journey
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deeplen.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deep_lenin
+github_username: DeepLenin
 
 # Build settings
 markdown: kramdown
