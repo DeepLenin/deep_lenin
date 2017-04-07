@@ -16,7 +16,7 @@
 title: Deep Lenin
 email: admin@deeplen.in
 description: Sweet deep learning journey
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://deeplen.in" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deep_lenin
 
